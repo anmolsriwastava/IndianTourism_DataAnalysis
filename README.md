@@ -1,7 +1,4 @@
-# India Tourism Data Analysis Project - Group 18
-
-**DARP (Data Analysis & Research Project)**  
-**Proposed Dataset**: India Tourism Statistics (8 CSV files from data.gov.in)
+# Data Analysis Project on Indian Tourism
 
 ## Project Overview
 This project analyzes India's tourism data (1981–2020) with a special focus on:
