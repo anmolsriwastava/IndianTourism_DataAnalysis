@@ -8,18 +8,12 @@ This project analyzes India's tourism data (1981–2020) with a special focus on
 - Underrated tourism segments (Medical, Spiritual, Adventure, Eco-tourism, etc.)
 - COVID-19 impact on different segments
 - State-wise potential for growth
-- Practical strategies for post-pandemic recovery
-
-## Team & Responsibilities
-- **Q1 + Q3** (Underrated segments + State potential): Anmol + Samriddha
-- **Q2** (COVID-19 impact): Gagan
-- **Q4** (Practical strategies): ZPK + Viswanadh
+- Practical strategies for post-pandemic recover
 
 ## Folder Structure
 - `data/raw/` → Original CSV files (never edit)
 - `data/processed/` → Cleaned and merged datasets
 - `notebooks/` → All analysis notebooks (one folder per question)
-- `src/` → Reusable Python functions
 - `reports/` → Final figures and tables
 
 ## How to Run
